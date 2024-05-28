@@ -1,0 +1,27 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Mon May 27 03:57:38 2024
+[*]
+[dumpfile] "/media/meet/Meet/SummerInternship2024/HyperBus/dump.vcd"
+[dumpfile_mtime] "Mon May 27 03:54:16 2024"
+[dumpfile_size] 2445850
+[savefile] "/media/meet/Meet/SummerInternship2024/HyperBus/wave_settings.gtkw"
+[timestart] 160017846700
+[size] 1026 600
+[pos] -1 -1
+*-17.000000 160000000001 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.hbc.
+[treeopen] top.hyperram.
+[sst_width] 233
+[signals_width] 102
+[sst_expanded] 1
+[sst_vpaned_height] 144
+@28
+top.hyperram.CK
+top.hyperram.CSNeg
+top.hyperram.RWDS
+@22
+top.hyperram.Dout[7:0]
+[pattern_trace] 1
+[pattern_trace] 0
